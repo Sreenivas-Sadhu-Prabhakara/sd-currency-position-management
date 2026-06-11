@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-currency-position-management
+description: "BIAN Service Domain: Currency Position Management (Manage pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Markets and Treasury"
+  bian/asset-type: "Currency Position"
+  bian/control-record: "Currency Position Management Plan"
